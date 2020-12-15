@@ -1,7 +1,7 @@
 # Genius
 Genius Game - HTML5, CSS3 e JAVASCRIPT 
-#Funciona localhost 
-#O jogo está correto, mas melhorias abaixo são propostas
+Funciona localhost 
+O jogo está correto, mas melhorias abaixo são propostas
 
 <h1>->1. Melhorias</h1>
 ->1.a - Infraestrutura 
