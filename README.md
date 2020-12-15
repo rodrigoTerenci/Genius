@@ -11,6 +11,7 @@ Genius Game - HTML5, CSS3 e JAVASCRIPT
       -CSS3 (Esquema de cores e apacidade ta ruim de visualizar-proposta fundo escuro quando realizar jogada);
       -JAVASCRI ES6- Da pra melhora muito. Tem código sobrando. 
      *FAZER PARECIDO COM A SEGUINTE IMAGEM, MAS NO CENTRO VAI UM BOTÃO REDONTO GRANDE CHAMADO 'START' QUE CHAMARÁ A FUNÇÃO PLAYGAME():
+     
      ![geenius](https://user-images.githubusercontent.com/45578535/102236983-845dfc80-3eca-11eb-93f8-4c427ec3e96e.png)
 
      
