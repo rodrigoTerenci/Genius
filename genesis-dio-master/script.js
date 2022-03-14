@@ -69,7 +69,7 @@ let checkOrder = () => {
 let pisca= (ele) => {ele.classList.add('selected')
 setTimeout(() => {
         ele.classList.remove('selected');
-    }, 250);
+    }, 5000);
 }
 
 //insere valor em ordem no array
